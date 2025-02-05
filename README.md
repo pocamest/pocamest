@@ -14,7 +14,7 @@
 
 ## 📫 Связаться со мной
 - GitHub: [github.com/username](https://github.com/pocamest)
-- Telegram: [@yourtelegram](https://t.me/@pocamestnet)
+- Telegram: @pocamestnet
 - Email: pocamest@yandex.ru
 
 Буду рад новым знакомствам и проектам! 😃
